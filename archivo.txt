@@ -1,6 +1,9 @@
 Hellow, my name is Luis
 and i am thirty-two years old
 I was born in Mexico City
+<<<<<<< HEAD
 my first file in git
 My birthday is february 17th
 pelotita azul
+=======
+>>>>>>> parent of fe50618 (Se agrega comentario de git)
